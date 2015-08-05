@@ -1,0 +1,1 @@
+NuGet.exe pack Framework.Repository.csproj -Build -Properties Configuration=Release
