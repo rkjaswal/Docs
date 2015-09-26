@@ -1,1 +1,1 @@
-NuGet.exe pack Framework.Repository.csproj -Build -Properties Configuration=Release
+C:\_GitHub\LocalNugetPackages>NuGet.exe pack C:\_GitHub\Framework\Framework.Core\Framework.Core.csproj -Build -Properties Configuration=Release
